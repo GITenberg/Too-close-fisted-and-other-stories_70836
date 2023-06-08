@@ -1,0 +1,35 @@
+_repo: Too-close-fisted-and-other-stories_70836
+_version: 0.0.1
+alternative_title: Too close fisted, and other tales
+creator:
+  author:
+    agent_name: Lamb, Ruth
+    aliases:
+    - Buck, Ruth
+    - Lamb, Mrs. (Ruth)
+    - Lamb, Ruth Buck
+    birthdate: 1829
+    deathdate: 1916
+    gutenberg_agent_id: '55945'
+    url: http://www.gutenberg.org/2009/agents/55945
+description: ''
+gutenberg_issued: '2023-05-22'
+identifiers:
+  gutenberg: '70836'
+language: en
+pgterms:marc905: 20230515171747lamb
+pgterms:marc906: '1886'
+pgterms:marc907: GB
+publication_note: '  $aUnited Kingdom :$bThe Religious Tract Society, $c1886.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'Domestic fiction, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Too close fisted -- What came of a talk -- It is mother's way --
+  Nothing beats trying but doing.
+title: Too close fisted, and other stories
+url: http://www.gutenberg.org/ebooks/70836
